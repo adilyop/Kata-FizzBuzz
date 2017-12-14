@@ -1,1 +1,2 @@
 # kata-FizzBuzz
+javascript
